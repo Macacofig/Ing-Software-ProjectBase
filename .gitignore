@@ -1,0 +1,4 @@
+# Directories and files to ignore in the project
+node_modules
+dist
+.cache
